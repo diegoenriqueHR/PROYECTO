@@ -1,0 +1,5 @@
+admin@gmail.com,admin=luis - 111111111:maria - 222222222:jorge - 333333333:pepe - 444444444:roberto - 555555555
+usuario@gmail.com,usuario=pepe - 111111111:jose - 222222222
+juan@gmail.com,juan=maria - 987654323
+maria@gmail.com,maria=*
+HRD2003.DOC@GMAIL.COM,123=KIKE - 123456789
